@@ -1,8 +1,8 @@
 # Project 1
 
-**Title:**
+**Title:** Superstore Sales Analysis Dashboard
 
-**Tools Used:**
+**Tools & Techniques Used:** (Pivot Charts, Slicers, Timeline, Power Query, Pivot tables, Time series Analysis, Dashboard Design and Visualization)
 
 **Project Description:**
 
