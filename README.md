@@ -10,3 +10,4 @@ The goal of the project was to support data-driven decision-making by presenting
 
 **Key findings:** 
 **Dashboard Overview:**
+![Superstore](Superstore.png)
