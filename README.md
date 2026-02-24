@@ -9,5 +9,7 @@
 The goal of the project was to support data-driven decision-making by presenting complex sales metrics in a clear, intuitive, and interactive format for business stakeholders.
 
 **Key findings:** 
+
+
 **Dashboard Overview:**
 ![Superstore](Superstore.png)
