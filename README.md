@@ -30,5 +30,6 @@ Corporate and Home Office segments are smaller but profitable, presenting potent
 The company is growing and profitable overall, but margins are heavily dependent on Technology and a few high-performing sub-categories.
 Furniture profitability requires urgent review, particularly around discounting and pricing strategy. Improving underperforming products and tightening discount controls could significantly increase overall profit without increasing sales volume.
 
+
 **Dashboard Overview:**
 ![Superstore](Superstore.png)
